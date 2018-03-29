@@ -1,3 +1,3 @@
 # AmaluSusan.github.io
 
-The visualition of NGOs in India and Mosques in Oman.
+The visualisation of NGOs in India, mosques in Oman as points and protected lands in America as polygons.
